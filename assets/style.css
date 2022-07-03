@@ -88,6 +88,9 @@ body{
     opacity: 0;
     transition: all o.5s ease-in-out;
 }
+.hide{
+    display: none;
+}
 .container-password:hover .tooltip{
     visibility: visible;
     bottom: 50px;
